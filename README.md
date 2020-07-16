@@ -17,8 +17,8 @@ In the 1st method i have applied Random forest algorithm to classify the data an
 
 ## Author :
 We are a group of two members who have done the project completely .
-Sanskruti Panda
-Jigyashu Suraj 
+\nSanskruti Panda
+\nJigyashu Suraj 
 
 ## Pre-requisite :
 To start with this project one need some knowledge of python3 , machine learning and deep learning .
